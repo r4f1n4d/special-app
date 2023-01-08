@@ -1,1 +1,1 @@
-print('Vse po novomy')
+print('Практическая работа')
